@@ -1,0 +1,16 @@
+C:\Dev\dio_mentoria\POO_mentoria\bin\Debug\net5.0\POO_mentoria.exe
+C:\Dev\dio_mentoria\POO_mentoria\bin\Debug\net5.0\POO_mentoria.deps.json
+C:\Dev\dio_mentoria\POO_mentoria\bin\Debug\net5.0\POO_mentoria.runtimeconfig.json
+C:\Dev\dio_mentoria\POO_mentoria\bin\Debug\net5.0\POO_mentoria.runtimeconfig.dev.json
+C:\Dev\dio_mentoria\POO_mentoria\bin\Debug\net5.0\POO_mentoria.dll
+C:\Dev\dio_mentoria\POO_mentoria\bin\Debug\net5.0\ref\POO_mentoria.dll
+C:\Dev\dio_mentoria\POO_mentoria\bin\Debug\net5.0\POO_mentoria.pdb
+C:\Dev\dio_mentoria\POO_mentoria\obj\Debug\net5.0\POO_mentoria.csproj.AssemblyReference.cache
+C:\Dev\dio_mentoria\POO_mentoria\obj\Debug\net5.0\POO_mentoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\dio_mentoria\POO_mentoria\obj\Debug\net5.0\POO_mentoria.AssemblyInfoInputs.cache
+C:\Dev\dio_mentoria\POO_mentoria\obj\Debug\net5.0\POO_mentoria.AssemblyInfo.cs
+C:\Dev\dio_mentoria\POO_mentoria\obj\Debug\net5.0\POO_mentoria.csproj.CoreCompileInputs.cache
+C:\Dev\dio_mentoria\POO_mentoria\obj\Debug\net5.0\POO_mentoria.dll
+C:\Dev\dio_mentoria\POO_mentoria\obj\Debug\net5.0\ref\POO_mentoria.dll
+C:\Dev\dio_mentoria\POO_mentoria\obj\Debug\net5.0\POO_mentoria.pdb
+C:\Dev\dio_mentoria\POO_mentoria\obj\Debug\net5.0\POO_mentoria.genruntimeconfig.cache
